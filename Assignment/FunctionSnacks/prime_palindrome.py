@@ -1,7 +1,7 @@
 def is_palindrome(number):
 
 	forward = str(number)
-	backward = str(n)[::-1]
+	backward = str(number)[::-1]
 
     if forward == backward
         return True
